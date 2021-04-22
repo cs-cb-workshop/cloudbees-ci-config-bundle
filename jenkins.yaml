@@ -8,7 +8,7 @@ cloudbees-pipeline-policies:
           maxTime: 60
 jenkins:
   quietPeriod: 0
-  systemMessage: 'Jenkins configured using CloudBees CI CasC - v4'
+  systemMessage: 'Jenkins configured using CloudBees CI CasC - v5 which is really v4 to fix cloudbees unable to reload jcasc bug'
 unclassified:
   hibernationConfiguration:
     activities:
